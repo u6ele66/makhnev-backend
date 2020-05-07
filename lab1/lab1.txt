@@ -1,0 +1,45 @@
+1) 
+
+a) /index.txt
+Content-Type: text/plain
+Content-Length: 14
+Server: nginx/1.2.2
+
+b) /images/web_technologies.png
+Content-Type: image/png
+Content-Length: 335525
+Server: nginx/1.2.2
+
+c) /media/Water.mp4
+Content-Type: application/octet-stream
+Content-Length: 1137202
+Server: nginx/1.2.2
+
+2) 
+
+a) Request: http://localhost/lw1/mysql_is_a_database_server.html
+Code: 404 Not Found
+Type: Client Error
+Что значит: отсутствие файла на сервере
+Как исправить: разместить файл на сервере
+
+b) Request: http://localhost/lw1/nginx_is_fast_http_server.txt
+Code: 200 OK
+Type: Success
+Что значит: запрос сервера успешно обработан, специальное поведение сервера
+
+c) Request: http://localhost/lw1/php_is_a_server_scripting_language.php
+Code: 302 Found
+Type: Redirection
+Что значит: временное отсутствие ресурса, специальное поведение сервера
+Новый адрес можно найти в заголовке Location
+
+d)Request: http://localhost/lw1/javascript_is_a_client_side_language.php?how_to_work=hardly
+Code: 400 Work hard!
+Type: Client Error
+Что значит: некорректный запрос клиента
+Как исправить: исправленный Request = http://localhost/lw1/javascript_is_a_client_side_language.php?how_to_work=hard
+
+3) Chatset демонстрирует то, в какой кодировке будут символы в документе. По умолчанию устанавливается charset ISO-885901.
+При несовпадении значения charset и кодировки исходного текста, текс будет нечитаем.
+В примере текс в кодировке utf-8, значит в http://localhost/lw1/all_begin_from_http.html в <meta> нужноcharset = 'utf-8'
