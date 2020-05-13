@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\remove_duplicates\remove_duplicates\obj\Debug\netcoreapp3.1\remove_duplicates.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\remove_duplicates\remove_duplicates\obj\Debug\netcoreapp3.1\remove_duplicates.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\remove_duplicates\remove_duplicates\obj\Debug\netcoreapp3.1\remove_duplicates.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\remove_duplicates\remove_duplicates\bin\Debug\netcoreapp3.1\remove_duplicates.exe
+C:\Users\Lenovo\source\repos\remove_duplicates\remove_duplicates\bin\Debug\netcoreapp3.1\remove_duplicates.deps.json
+C:\Users\Lenovo\source\repos\remove_duplicates\remove_duplicates\bin\Debug\netcoreapp3.1\remove_duplicates.runtimeconfig.json
+C:\Users\Lenovo\source\repos\remove_duplicates\remove_duplicates\bin\Debug\netcoreapp3.1\remove_duplicates.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\remove_duplicates\remove_duplicates\bin\Debug\netcoreapp3.1\remove_duplicates.dll
+C:\Users\Lenovo\source\repos\remove_duplicates\remove_duplicates\bin\Debug\netcoreapp3.1\remove_duplicates.pdb
+C:\Users\Lenovo\source\repos\remove_duplicates\remove_duplicates\obj\Debug\netcoreapp3.1\remove_duplicates.dll
+C:\Users\Lenovo\source\repos\remove_duplicates\remove_duplicates\obj\Debug\netcoreapp3.1\remove_duplicates.pdb

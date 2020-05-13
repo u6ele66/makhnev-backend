@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\print_args\print_args\bin\Debug\netcoreapp3.1\print_args.exe
+C:\Users\Lenovo\source\repos\print_args\print_args\bin\Debug\netcoreapp3.1\print_args.deps.json
+C:\Users\Lenovo\source\repos\print_args\print_args\bin\Debug\netcoreapp3.1\print_args.runtimeconfig.json
+C:\Users\Lenovo\source\repos\print_args\print_args\bin\Debug\netcoreapp3.1\print_args.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\print_args\print_args\bin\Debug\netcoreapp3.1\print_args.dll
+C:\Users\Lenovo\source\repos\print_args\print_args\bin\Debug\netcoreapp3.1\print_args.pdb
+C:\Users\Lenovo\source\repos\print_args\print_args\obj\Debug\netcoreapp3.1\print_args.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\print_args\print_args\obj\Debug\netcoreapp3.1\print_args.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\print_args\print_args\obj\Debug\netcoreapp3.1\print_args.dll
+C:\Users\Lenovo\source\repos\print_args\print_args\obj\Debug\netcoreapp3.1\print_args.pdb
+C:\Users\Lenovo\source\repos\print_args\print_args\obj\Debug\netcoreapp3.1\print_args.csprojAssemblyReference.cache
